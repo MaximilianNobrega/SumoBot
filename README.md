@@ -59,7 +59,7 @@ The PCB was designed with two copper layers and ground pours. The layout was ite
 
 The completed PCB design was submitted to JLCPCB for fabrication using the generated Gerber and drill files.
 
-[View PCB Manufacturing Files](SumoBot-Manufacturing-Files.zip)
+[View PCB Manufacturing Files](Project_Outputs_Nobrega_SumoBot.zip)
 
 The ZIP archive contains the Gerber and drill files used to manufacture the two-layer PCB.
 
