@@ -53,7 +53,13 @@ The PCB was designed with two copper layers and ground pours. The layout was ite
 
 ### PCB Layout Screenshots
 
-*Top-layer and bottom-layer Altium screenshots will be added here.*
+**Bottom Copper Layer — Routing and Ground Pour**
+
+![Bottom PCB Layer](bottom-layer.png)
+
+**Top Copper Layer — Component Placement and Routing**
+
+![Top PCB Layer](top-layer.png)
 
 ## Manufacturing
 
